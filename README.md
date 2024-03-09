@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlackeraTV
 - 👀 I’m interested in python coding
-- 🌱 I’m currently learning pythong
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on pything projects
 - 📫 How to reach me @suicide_offiziell
 
